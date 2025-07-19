@@ -2,8 +2,10 @@
 
 **Projects: Build ML algorithms from scratch using Numpy**
 
+
 ## Goal from Projects:
   - Use Numpy to build some simple ML algorithms from scratch to understand how they're work.
+
 
 ## Algorithm Types:
 1 - **Precepteron - Adaptive Linear:**
@@ -28,6 +30,10 @@ The supervised lazy machine learning that used for both classification and regre
 Instead of learn from data, it memorize it until the new data gaven to it, then mesure the distence between the new data point and
 other data points, then classify it depend on the nearest k number of points.
 the metric used in my project was Euclidean distance.
+
+
+## Data used:
+It used random data in each project.
 
 ## File formates:
 each project has 2 file formats: **.ipynb** (jupyter notebook forsmt), and **.pdf** for quick review.
